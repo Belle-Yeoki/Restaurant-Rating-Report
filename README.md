@@ -32,7 +32,7 @@ To address the outlined questions, I employed various charts, cards, and graphs,
 
 Report 1
 
-![](1.png)
+![](1o.png)
 
 •	A restaurant can actually serve more than one cuisine indicating versatility
 
